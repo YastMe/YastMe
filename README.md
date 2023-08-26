@@ -1,5 +1,5 @@
 <p align=center>
-  <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clk6sifml000608le7k7e1s58/stats?cursusId=21&coalitionId=275" alt="abeltran's 42 stats" /></a>
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/abeltran?1337Badge=off&UM6P=off" alt="abeltran's 42 stats" /></a>
 </p>
 
 ## :pushpin: Github status
