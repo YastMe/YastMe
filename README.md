@@ -15,76 +15,76 @@
 	</thead>
 	<tbody align=center>
 		<tr>
-			<td>Libft</td>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/libft">Libft</a></td>
 			<td>0</td>
 			<td>125/100</td>
-      <td>🥉</td>
+      			<td>🥉</td>
 		</tr>
 		<tr>
-			<td>Printf</td>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/Printf">Printf</a></td>
 			<td>1</td>
 			<td>100/100</td>
-      <td>✖️</td>
+      			<td>✖️</td>
 		</tr>
 		<tr>
-			<td>Get next line</td>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/get_next_line">Get next line</a></td>
 			<td>1</td>
 			<td>125/100</td>
-      <td>🥇</td>
+      			<td>🥇</td>
 		</tr>
 		<tr>
 			<td>Born2BeRoot</td>
 			<td>1</td>
 			<td>125/100</td>
-      <td>🥉</td>
+      			<td>🥉</td>
 		</tr>
 		<tr>
-			<td>So_long</td>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/so_long">So_long</a></td>
 			<td>2</td>
 			<td>125/100</td>
-      <td>🥇</td>
+      			<td>🥇</td>
 		</tr>
 		<tr>
-			<td>Minitalk</td>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/minitalk">Minitalk</a></td>
 			<td>2</td>
 			<td>125/100</td>
-      <td>🥉</td>
+      			<td>🥉</td>
 		</tr>
 		<tr>
-			<td>Push Swap</td>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/push_swap">Push Swap</a></td>
 			<td>2</td>
 			<td>125/100</td>
-      <td>🥈</td>
+      			<td>🥈</td>
 		</tr>
 		<tr>
-			<td>Minishell</td>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/minishell">Minishell</a> w/<a href="https://github.com/fjgrDAM/42Cursus">fragarci</a></td>
 			<td>3</td>
 			<td>101/100</td>
-      <td>🥈</td>
+      			<td>🥈</td>
 		</tr>
 		<tr>
-			<td>Philosphers</td>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/philosophers">Philosphers</a></td>
 			<td>3</td>
 			<td>100/100</td>
-      <td>🥈</td>
+      			<td>🥈</td>
 		</tr>
 		<tr>
-			<td>CPP Module 00</td>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/CPP/CPP00">CPP Module 00</a></td>
 			<td>4</td>
 			<td>100/100</td>
-      <td>🥇</td>
+      			<td>🥇</td>
 		</tr>
 		<tr>
-			<td>CPP Module 01</td>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/CPP/CPP01">CPP Module 01</a></td>
 			<td>4</td>
 			<td>100/100</td>
-      <td>🥇</td>
+      			<td>🥇</td>
 		</tr>
 		<tr>
-			<td>CPP Module 02</td>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/CPP/CPP02">CPP Module 02</a></td>
 			<td>4</td>
 			<td>100/100</td>
-      <td>🥇</td>
+      			<td>🥇</td>
 		</tr>
 	</tbody>
 </table>
