@@ -57,7 +57,7 @@
       			<td>🥈</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/YastMe/42Cursus/tree/main/minishell">Minishell</a> w/<a href="https://github.com/fjgrDAM/42Cursus">fragarci</a></td>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/minishell">Minishell</a> w/<a href="https://github.com/fragarci/42Cursus">fragarci</a></td>
 			<td>3</td>
 			<td>101/100</td>
       			<td>🥈</td>
