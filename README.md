@@ -57,7 +57,7 @@
       			<td>🥈</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/YastMe/42Cursus/tree/main/minishell">Minishell</a> w/<a href="https://github.com/fragarci/42Cursus">fragarci</a></td>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/minishell">Minishell</a> w/<a href="https://github.com/fragarci">fragarci</a></td>
 			<td>3</td>
 			<td>101/100</td>
       			<td>🥈</td>
@@ -82,6 +82,36 @@
 		</tr>
 		<tr>
 			<td><a href="https://github.com/YastMe/42Cursus/tree/main/CPP/CPP02">CPP Module 02</a></td>
+			<td>4</td>
+			<td>100/100</td>
+      			<td>🥇</td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/CPP/CPP03">CPP Module 03</a></td>
+			<td>4</td>
+			<td>100/100</td>
+      			<td>🥇</td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/CPP/CPP04">CPP Module 04</a></td>
+			<td>4</td>
+			<td>100/100</td>
+      			<td>🥇</td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/cub3D">cub3D</a> w/<a href="https://github.com/fragarci">fragarci</a></a></td>
+			<td>4</td>
+			<td>100/100</td>
+      			<td>🥉</td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/miniRT">miniRT</a> w/<a href="https://github.com/fragarci">fragarci</a></a></td>
+			<td>4</td>
+			<td>✖️</td>
+      			<td>✖️</td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/nerpractice">Net Practice</a></td>
 			<td>4</td>
 			<td>100/100</td>
       			<td>🥇</td>
