@@ -111,7 +111,7 @@
       			<td>✖️</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/YastMe/42Cursus/tree/main/nerpractice">Net Practice</a></td>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/netpractice">Net Practice</a></td>
 			<td>4</td>
 			<td>100/100</td>
       			<td>🥇</td>
