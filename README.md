@@ -63,7 +63,7 @@
       			<td>🥈</td>
 		</tr>
 		<tr>
-			<td><a href="https://github.com/YastMe/42Cursus/tree/main/philosophers">Philosphers</a></td>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/Philosophers/philo">Philosphers</a></td>
 			<td>3</td>
 			<td>100/100</td>
       			<td>🥈</td>
