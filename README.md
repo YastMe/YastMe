@@ -107,8 +107,8 @@
 		<tr>
 			<td><a href="https://github.com/YastMe/42Cursus/tree/main/miniRT">miniRT</a> w/<a href="https://github.com/fragarci">fragarci</a></a></td>
 			<td>4</td>
-			<td>✖️</td>
-      			<td>✖️</td>
+			<td>UNFINISHED</td>
+      			<td>UNFINISHED</td>
 		</tr>
 		<tr>
 			<td><a href="https://github.com/YastMe/42Cursus/tree/main/netpractice">Net Practice</a></td>
