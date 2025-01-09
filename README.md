@@ -116,18 +116,47 @@
 			<td>100/100</td>
       			<td>🥇</td>
 		</tr>
+	<tr>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/CPP/CPP05">CPP Module 05</a></td>
+			<td>5</td>
+			<td>100/100</td>
+      			<td>🥉</td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/CPP/CPP06">CPP Module 06</a></td>
+			<td>5</td>
+			<td>100/100</td>
+      			<td>🥉</td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/CPP/CPP07">CPP Module 07</a></td>
+			<td>5</td>
+			<td>100/100</td>
+      			<td>✖️</td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/CPP/CPP08">CPP Module 08</a></td>
+			<td>5</td>
+			<td>100/100</td>
+      			<td>🥈</td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/CPP/CPP09">CPP Module 09</a></td>
+			<td>5</td>
+			<td>100/100</td>
+      			<td>✖️</td>
+		</tr>
+		<tr>
+			<td><a href="https://github.com/YastMe/42Cursus/tree/main/ft_irc">ft_irc</a> w/<a href="https://github.com/fragarci">fragarci</a>, <a href="https://github.com/Cha0sK1ng">jzaragoz</a></td>
+			<td>5</td>
+			<td>100/100</td>
+      			<td>🥉</td>
+		</tr>
+		<tr>
+			<td>ft_transcendence</a> w/<a href="https://github.com/fragarci">fragarci</a>, <a href="https://github.com/Cha0sK1ng">jzaragoz</a>,<br><a href="https://github.com/majiro1996">manujime</a>, anamarqu</td>
+			<td>6</td>
+			<td>110/100</td>
+      			<td>🥈</td>
+		</tr>
 	</tbody>
 </table>
-
-## :pushpin: Github status
-<div style="display: flex; flex-direction: row; align-items: center;flex-wrap: wrap">
-    <div>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yastme&show_icons=true&locale=en&layout=compact&token=${process.env.PAT_1}" alt="yastme" /></p>
-</div>
-<div>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yastme&show_icons=true&locale=en&token=${process.env.PAT_1}" alt="yastme" /></p>
-</div>
-    <div>
-      <p align="center"><img src="https://streak-stats.demolab.com/?user=yastme" alt="GitHub Streak"><p>
-    </div>
-</div>
