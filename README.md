@@ -153,7 +153,7 @@
       			<td>🥉</td>
 		</tr>
 		<tr>
-			<td>ft_transcendence</a> w/<a href="https://github.com/fragarci">fragarci</a>, <a href="https://github.com/Cha0sK1ng">jzaragoz</a>,<br><a href="https://github.com/majiro1996">manujime</a>, anamarqu</td>
+			<td>ft_transcendence</a> w/<a href="https://github.com/fragarci">fragarci</a>, <a href="https://github.com/Cha0sK1ng">jzaragoz</a>,<br><a href="https://github.com/majiro-dev">manujime</a>, anamarqu</td>
 			<td>6</td>
 			<td>110/100</td>
       			<td>🥈</td>
